@@ -92,6 +92,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={`${oswald.variable} ${inter.variable} bg-[#0a0a0a]`}>
       <head>
+        <meta name="yandex-verification" content="c6e47518ab0b695e" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/favicon.svg" />
         <script
